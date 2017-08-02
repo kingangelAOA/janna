@@ -1,0 +1,24 @@
+[{
+  "name": "",
+  "interfaces": [{
+    "name": "",
+    "url": "",
+    "headers": {},
+    "method": "",
+    "body": "",
+    "store": [{
+      "type": "",
+      "fromKey": "",
+      "toKey": "",
+      "jsonPath": "",
+      "value": ""
+    }]
+  }],
+  "runConfig": {
+    "type": 0,
+    "time": 60,
+    "threadNum": 5,
+    "user": 5,
+    "wait": false
+  }
+}]
